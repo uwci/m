@@ -1,0 +1,15 @@
+
+
+#haha
+
+<embed src="https://uwci.github.io/m/videos/20190126_145411.mp4"  width="700px"/>
+
+[保存视频](https://uwci.github.io/m/videos/20190126_145411.mp4)
+
+
+参考：[HTML 视频]( http://www.w3school.com.cn/html/html_video.asp )
+
+源代码|||
+---|---|---|
+当前页面文本|
+
